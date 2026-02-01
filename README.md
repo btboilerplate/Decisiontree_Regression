@@ -74,7 +74,7 @@ A visualization comparing y_test and y_pred is used to assess how closely predic
 
 1. Clone the repository  
 ```text
-git clone https://github.com/your-username/decision-tree-regression.git  
+git clone https://github.com/btboilerplate/Decisiontree_Regression.git  
 ```
 
 2. Install required libraries  
