@@ -20,7 +20,7 @@ Decisiontree_Regression
 │  
 ├── decision_treereg.ipynb  
 ├── housing.csv  
-├── rmse_r2.png 
+├── rmse_r2.png  
 ├── residual_distribution.png  
 └── README.md  
 
